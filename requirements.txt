@@ -1,0 +1,7 @@
+# Optional — document OCR (image scanning & classification)
+easyocr
+# Optional — camera document capture and image preview
+opencv-python
+pillow
+# Optional — voice input on the Describe Concern screen
+SpeechRecognition
